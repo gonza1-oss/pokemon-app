@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders pokemon list 1`] = `"Bulbasaur001Max HP: 1071Max CP: 951Type: Grass, PoisonMore information"`;
